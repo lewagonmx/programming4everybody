@@ -134,7 +134,7 @@ Group 2
 
 For each session, a private link to the meeting will be shared on the course Slack channel. The Zoom meetings and Slack workspace are **private**, and only authorised participants can access them 🔒
 
-**N.B:** to keep the lecture as interactive as possible, if you share your screen with the rest of the participants, we ask you to do it for **no more than 2 minutes** per session, excluding any eventual extra presentation 🙋🏼‍♀️🙋🏽‍♂️
+**N.B:** to keep the lecture as interactive as possible, if you share your screen with the rest of the participants, we ask you to **keep it shorter**, excluding any eventual extra presentation 🙋🏼‍♀️🙋🏽‍♂️
 
 ## Going further
 
