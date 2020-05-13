@@ -140,7 +140,7 @@ For each session, a private link to the meeting will be shared on the course Sla
 
 Can't wait to know more about programming? **[Apply to Le Wagon](http://www.lewagon.com/mexico/apply)**, and learn how to build the app of your dreams with us! 🚀
 
-By completing this course, **you get a special 10% off the next Lisbon course tuition**! 🇲🇽 Applications are open for our next batches, check out the dates on our website and [get in touch with our Driver Andrea](https://app.slack.com/client/T012DRTFVGU/D013PDAFJ5S).
+By completing this course, **you get a special 10% off the next Mexico course tuition**! 🇲🇽 Applications are open for our next batches, check out the dates on our website and [get in touch with our Driver Andrea](https://app.slack.com/client/T012DRTFVGU/D013PDAFJ5S).
 
 You can also follow us on [Meetup](https://www.meetup.com/Le-Wagon-Mexico/), [Eventbrite](https://www.eventbrite.com/o/le-wagon-mexico-coding-bootcamp-17507072625), [Facebook](https://www.facebook.com/lewagonmx) and [Instagram](https://www.instagram.com/lewagonmx), and stay involved in our amazing community 🤩
 
